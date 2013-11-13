@@ -4,10 +4,13 @@
 		margin-right:200px;
 		margin-left:200px;
 }
-.center
-{
-margin-left:auto;
-margin-right:auto;
-width:70%;
-background-color:#b0e0e6;
+.paragraph {
+		margin-right:200px;
+		margin-left: 200px;
+		text-align:center;
+
+}
+.list1{
+		margin-right: 300px;
+		margin-left: 300px;
 }
