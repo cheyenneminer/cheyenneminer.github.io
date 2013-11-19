@@ -19,9 +19,12 @@
 	background-repeat:no-repeat;
 }   
 .scroll{
-    margin: 0 auto;
-    width: 600px;
+    width:650px;
+    height:150px;
+    overflow:scroll;
+    margin:0 auto;
 }
+
 
 
 
