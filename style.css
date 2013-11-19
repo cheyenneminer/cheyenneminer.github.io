@@ -14,6 +14,8 @@
     font-family: "Marvel", sans-serif;
     font-size: 15px;
     background-image:url('http://i.imgur.com/nh4t7Iw.jpg');
+    background-size:700px 500px;
+    background-repeat:no-repeat;
     background-color:#cccccc;
 }   
 .scroll{
