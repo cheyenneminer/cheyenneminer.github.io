@@ -10,7 +10,8 @@
     text-transform: uppercase;
 }
 .email{ 
-    font-size: 15px
+    font-size: 15px;
+    color:#262626;
     }
 .body {
 	color: #262626;
@@ -27,5 +28,5 @@
     height:350px;
     overflow:scroll;
     margin:0 auto;
-    margin-bottom:300px;
+    margin-bottom:200px;
 }
