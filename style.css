@@ -15,10 +15,12 @@
     font-size: 15px;
  	margin: 70px;
  	background-image:url('http://i.imgur.com/1a9uWYV.jpg');
-	background-position:bottom left;
+	background-position:bottom left, fixed; 
 	background-size: 560px 400px;
 	background-repeat:no-repeat;
+}   
+.scroll{
+    
 }
-
 
 
