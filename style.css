@@ -1,10 +1,14 @@
 
 .myname{
-	   color: #262626;
-    font-family: "Enriqueta", serif;
-    font-size: 44px;
+	 border-bottom: 5px solid #f0f1e7;
+    color: #b2b888;
+    font-family: "Marvel", sans-serif;
+    font-size: 54px;
+    font-weight: normal;
     line-height: 48px;
-    margin: 0 0 30px;
+    margin: 0 0 26px;
+    padding: 0 0 24px;
+    text-transform: uppercase;
 }
 .body {
 	   color: #262626;
