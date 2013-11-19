@@ -1,3 +1,4 @@
+.myname{font-family:"cursive";}
 .body {
 	background-color: #FFFFCC;
 	font-family:"Veranda", sans-serif;
@@ -8,7 +9,4 @@
 	width:70%;
 
 }
-.page-header{
-	font-family:"Florence";
 
-}
