@@ -13,17 +13,8 @@
     font-size: 15px;
     color:#778899;
     }
-a:link {
-COLOR:#20B2AA ;
-}
-a:visited {
-COLOR: #778899;
-}
-a:hover {
-COLOR: #20B2AA ;
-}
-a:active {
-COLOR: #20B2AA;
+.links {
+    color: #20B2AA ;
 }
 
 
