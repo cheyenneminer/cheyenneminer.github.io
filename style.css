@@ -1,12 +1,18 @@
 
+.myname{
+	   color: #262626;
+    font-family: "Enriqueta", serif;
+    font-size: 44px;
+    line-height: 48px;
+    margin: 0 0 30px;
+}
 .body {
-	background-color: #FFFFCC;
-	
-	margin-right:auto;
-	margin-left:auto;
-	top margin:25px;
-	bottom margin:75px;
-	width:70%;
+	   color: #262626;
+    font-family: "Enriqueta", serif;
+    font-size: 44px;
+    line-height: 48px;
+    margin: 0 0 30px;
+}
 
 }
 
