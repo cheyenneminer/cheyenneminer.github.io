@@ -13,11 +13,13 @@
 	color: #262626;
     font-family: "Marvel", sans-serif;
     font-size: 15px;
- 	background-image:url ('http://i.imgur.com/1a9uWYV.jpg'); 
-	background-size: 1000px 700px;
-	background-repeat:no-repeat;
-    background-position: left bottom;
 }   
+.scroll{
+    width:600px;
+    height:350px;
+    overflow:scroll;
+    margin:0 auto;
+}
 
 
 
