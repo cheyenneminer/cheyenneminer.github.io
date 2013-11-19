@@ -13,7 +13,10 @@
     font-size: 15px;
     color:#778899;
     }
-
+a:link {color:#20B2AA;}      /* unvisited link */
+a:visited {color:#20B2AA;}  /* visited link */
+a:hover {color:#778899;}  /* mouse over link */
+a:active {color:#20B2AA;}  /* selected link */
 
 .body {
 	color: #262626;
