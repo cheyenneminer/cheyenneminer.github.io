@@ -1,12 +1,15 @@
 .body {
 	background-color: #FFFFCC;
-	font-family:"Verdana", sans-serif;
+	font-family:"Veranda", sans-serif;
 	margin-right:auto;
 	margin-left:auto;
 	top margin:25px;
 	bottom margin:75px;
 	width:70%;
 
+}
+.header{
+	font-family: "oldtown,fantasy"
 }
 .container {
 
