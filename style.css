@@ -13,9 +13,10 @@
 	color: #262626;
     font-family: "Marvel", sans-serif;
     font-size: 15px;
-  
-    margin: 70px;
+ 	margin: 70px;
+ 	background-image:url('http://i.imgur.com/pfELEYk.jpg');
+	background-color:#cccccc;
 }
 
-}
+
 
