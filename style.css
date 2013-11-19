@@ -9,6 +9,9 @@
     padding: 0 0 24px;
     text-transform: uppercase;
 }
+.email{ 
+    font-size: 15px
+    }
 .body {
 	color: #262626;
     font-family: "Marvel", sans-serif;
