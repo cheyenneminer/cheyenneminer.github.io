@@ -28,6 +28,7 @@
 }
 .list2 {
     float: right;
+    display: inline;
 }
 
 
