@@ -18,6 +18,11 @@
     float:right;
     background-color: #20B2AA;
     width:300px;
+    background-color: white;
+    width: 260px;
+    position: fixed;
+    top: 150px;
+    left: 100px;
 }
 a:link {color:#20B2AA;}      /* unvisited link */
 a:visited {color:#20B2AA;}  /* visited link */
