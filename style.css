@@ -50,6 +50,6 @@ a:active {color:#20B2AA;}  /* selected link */
     width:600px;
     height:300px;
     overflow:scroll;
-    margin:0;
+    margin:300px;
     margin-bottom:100px;
 }
