@@ -2,6 +2,12 @@
 
 .links{
     float:right;
+     font-family: "Marvel", sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    margin: 0 0 7px;
+    padding: 0 0 7px;
+    text-transform: uppercase;
 }    
 .myname{
 	border-bottom: 5px solid #778899;
