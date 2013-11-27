@@ -42,7 +42,7 @@ a:active {color:#20B2AA;}  /* selected link */
     width:600px;
     height:300px;
     overflow:scroll;
-    margin-left: 200px;
-    margin-right: 400px;
+    margin-left: 400px;
+    margin-right: 200px;
     margin-bottom:100px;
 }
