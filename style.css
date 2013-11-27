@@ -17,7 +17,7 @@
 .links{
     float:right;
     background-color: #20B2AA;
-    height:100%;
+   
 }
 a:link {color:#20B2AA;}      /* unvisited link */
 a:visited {color:#20B2AA;}  /* visited link */
