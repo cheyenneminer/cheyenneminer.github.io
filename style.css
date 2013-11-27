@@ -13,6 +13,16 @@
     font-size: 15px;
     color:#778899;
     }
+.sidebar{
+    border-top: 1px solid #99CC33;
+    border-left: 1px solid #99CC33;
+    height: 300px;
+    width: 200px;
+    float: right;
+    margin-right: 5px;
+    padding: 5px 0 0 5px;
+}
+}
 a:link {color:#20B2AA;}      /* unvisited link */
 a:visited {color:#20B2AA;}  /* visited link */
 a:hover {color:#778899;}  /* mouse over link */
