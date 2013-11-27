@@ -1,10 +1,6 @@
-@import url(http://fonts.googleapis.com/css?family=Varela+Round);
-
-html, body { background: #333 url("http://codepen.io/images/classy_fabric.png"); }
-
 .slides {
     padding: 0;
-    width: 609px;
+    width: 1000px;
     height: 420px;
     display: block;
     margin: 0 auto;
@@ -27,7 +23,7 @@ html, body { background: #333 url("http://codepen.io/images/classy_fabric.png");
 .slide {
     top: 0;
     opacity: 0;
-    width: 609px;
+    width: 1000px;
     height: 420px;
     display: block;
     position: absolute;
