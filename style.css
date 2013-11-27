@@ -6,7 +6,7 @@
     font-size: 15px;
     font-weight: normal;
     margin: 0 0 7px;
-    padding: 0 0 7px;
+    padding: 0 0 3px;
     text-transform: uppercase;
 }    
 .myname{
@@ -21,7 +21,8 @@
 }
 .email{ 
     font-size: 15px;
-    color:#778899;   
+    color:#778899;
+    margin: 5px 0 7px;   
 }
 a:link {color:#20B2AA;}      /* unvisited link */
 a:visited {color:#20B2AA;}  /* visited link */
