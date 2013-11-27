@@ -16,7 +16,7 @@
 }
 .links{
     float:right;
-    color: #20B2AA;
+    background-color: #20B2AA;
     height:100%;
 }
 a:link {color:#20B2AA;}      /* unvisited link */
