@@ -1,5 +1,10 @@
 
-
+.ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
 .links{
     float:right;
     font-family: "Marvel", sans-serif;
