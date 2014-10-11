@@ -65,3 +65,43 @@
   color: #fff;
   margin-bottom: 25px;
 }
+
+@media(max-width:767px) {
+  body {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  
+  .heading > .container {
+    padding: 0 15px;
+  }
+  
+  .main-content > .container {
+    padding: 0 15px;
+  }
+  
+  .footer > .container {
+    padding: 0 15px;
+  }
+  .heading h1 {
+    font-size: 50px;
+    line-height: 55px;
+  }
+  .heading h4 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
+
+@media(max-width:550px) {
+  #heading {
+    height: 300px;
+  }
+  .navigation .navlinks li {
+    margin-right: 1px;
+  }
+  .navigation .navlinks li a {
+    padding: 0 5px;
+    font-size: 12px;
+  }
+}
