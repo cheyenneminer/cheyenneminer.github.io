@@ -3,11 +3,11 @@
 
  
  .links{
-+    float:left;
++    float:right;
      font-family: "Marvel", sans-serif;
      font-size: 15px;
      font-weight: normal;
-+    margin: 0 0 7px;
++    
 +    padding: 0 0 3px;
      text-transform: uppercase;
 -
