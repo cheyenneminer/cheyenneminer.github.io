@@ -2,51 +2,52 @@
 
 
  
- .links{
-+    float:right;
-     font-family: "Marvel", sans-serif;
-     font-size: 15px;
-     font-weight: normal;
-+    margin: 0 0 7px;
-+    padding: 0 0 3px;
-     text-transform: uppercase;
--
- }    
- .myname{
-    border-bottom: 5px solid #778899;
-     color: #20B2AA;
-     font-family: "Marvel", sans-serif;
-     font-size: 25px;
-     font-weight: normal;
-    margin: 0 0 7px;
-     padding: 0 0 7px;
-     text-transform: uppercase;
- }
- .email{ 
-     font-size: 15px;
-     color:#778899;
-     margin: 5px 0 7px;   
- }
- a:link {color:#20B2AA;}      /* unvisited link */
- a:visited {color:#20B2AA;}  /* visited link */
- a:hover {color:#778899;}  /* mouse over link */
- a:active {color:#20B2AA;}  /* selected link */
- 
- .body {
-    color: #262626;
-     font-family: "Marvel", sans-serif;
-     font-size: 15px;
-     background-image:url('http://i.imgur.com/RZVNTW8.jpg');
-     background-size:560px 400px;
-     background-repeat:no-repeat;
-     background-attachment:fixed;
-     background-position:bottom left; 
- }   
- .scroll{
-     width:600px;
-     height:300px;
-     overflow:scroll;
-     margin-left: 400px;
-     margin-right: 200px;
-     margin-bottom:100px;
- }
+ ..nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://goo.gl/04j7Nn');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
